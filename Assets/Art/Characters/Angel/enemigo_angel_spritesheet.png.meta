@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: ca4674d3ecdd21a4b93e79ae864d40e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9172439951366804050
+    second: enemigo_angel_spritesheet_0
+  - first:
+      213: 4134721571918307376
+    second: enemigo_angel_spritesheet_1
+  - first:
+      213: -599016837901564656
+    second: enemigo_angel_spritesheet_2
+  - first:
+      213: 5030200424713451722
+    second: enemigo_angel_spritesheet_3
+  - first:
+      213: 7762036040345505468
+    second: enemigo_angel_spritesheet_4
+  - first:
+      213: -977954514613160290
+    second: enemigo_angel_spritesheet_5
+  - first:
+      213: -5974664575469925204
+    second: enemigo_angel_spritesheet_6
+  - first:
+      213: 5886444646550269642
+    second: enemigo_angel_spritesheet_7
+  - first:
+      213: 8116254817802428570
+    second: enemigo_angel_spritesheet_8
+  - first:
+      213: 3273915366956223760
+    second: enemigo_angel_spritesheet_9
+  - first:
+      213: 4640962277943886570
+    second: enemigo_angel_spritesheet_10
+  - first:
+      213: -1338729938768690971
+    second: enemigo_angel_spritesheet_11
+  - first:
+      213: 5004787774248605502
+    second: enemigo_angel_spritesheet_12
+  - first:
+      213: 4851596740754523046
+    second: enemigo_angel_spritesheet_13
+  - first:
+      213: -5949871264740899032
+    second: enemigo_angel_spritesheet_14
+  - first:
+      213: 6375298951832620809
+    second: enemigo_angel_spritesheet_15
+  - first:
+      213: 2729111384355312243
+    second: enemigo_angel_spritesheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 248
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead2e2f3672f4b080800000000000000
+      internalID: -9172439951366804050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 247
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030e55bec5b716930800000000000000
+      internalID: 4134721571918307376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 246
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01546621c5ddfa7f0800000000000000
+      internalID: -599016837901564656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 247
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8701892acdec540800000000000000
+      internalID: 5030200424713451722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 168
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbec29657aa48bb60800000000000000
+      internalID: 7762036040345505468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 167
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e963ef5ec8b9d62f0800000000000000
+      internalID: -977954514613160290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 166
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac4107493ab51da0800000000000000
+      internalID: -5974664575469925204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 232
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acee0a3e73ad0b150800000000000000
+      internalID: 5886444646550269642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 166
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90aaa941cab2a070800000000000000
+      internalID: 8116254817802428570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 167
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d4e182ea84f6d20800000000000000
+      internalID: 3273915366956223760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 168
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae245d85a92086040800000000000000
+      internalID: 4640962277943886570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 87
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0038da630eb6de0800000000000000
+      internalID: -1338729938768690971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 88
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e375e44d6f3947540800000000000000
+      internalID: 5004787774248605502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 87
+        width: 162
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3cd16e785545340800000000000000
+      internalID: 4851596740754523046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 87
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82780d5cb9fcd6da0800000000000000
+      internalID: -5949871264740899032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f47e07e9c997850800000000000000
+      internalID: 6375298951832620809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_angel_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 7
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37219f83850cfd520800000000000000
+      internalID: 2729111384355312243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 79f29c2c25055da4ba11de953bb93892
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      enemigo_angel_spritesheet_0: -9172439951366804050
+      enemigo_angel_spritesheet_1: 4134721571918307376
+      enemigo_angel_spritesheet_10: 4640962277943886570
+      enemigo_angel_spritesheet_11: -1338729938768690971
+      enemigo_angel_spritesheet_12: 5004787774248605502
+      enemigo_angel_spritesheet_13: 4851596740754523046
+      enemigo_angel_spritesheet_14: -5949871264740899032
+      enemigo_angel_spritesheet_15: 6375298951832620809
+      enemigo_angel_spritesheet_16: 2729111384355312243
+      enemigo_angel_spritesheet_2: -599016837901564656
+      enemigo_angel_spritesheet_3: 5030200424713451722
+      enemigo_angel_spritesheet_4: 7762036040345505468
+      enemigo_angel_spritesheet_5: -977954514613160290
+      enemigo_angel_spritesheet_6: -5974664575469925204
+      enemigo_angel_spritesheet_7: 5886444646550269642
+      enemigo_angel_spritesheet_8: 8116254817802428570
+      enemigo_angel_spritesheet_9: 3273915366956223760
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

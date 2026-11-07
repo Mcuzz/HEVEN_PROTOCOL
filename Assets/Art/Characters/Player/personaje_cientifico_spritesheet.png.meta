@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: bdfe0e9da2c66624290b3d46cc5045dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -20268151836155000
+    second: personaje_cientifico_spritesheet_0
+  - first:
+      213: 6996119214103575177
+    second: personaje_cientifico_spritesheet_1
+  - first:
+      213: 3566655629126308847
+    second: personaje_cientifico_spritesheet_2
+  - first:
+      213: -7881740840542948897
+    second: personaje_cientifico_spritesheet_3
+  - first:
+      213: -6006812030810970947
+    second: personaje_cientifico_spritesheet_4
+  - first:
+      213: 2468910865102182504
+    second: personaje_cientifico_spritesheet_5
+  - first:
+      213: -7830698497224949128
+    second: personaje_cientifico_spritesheet_6
+  - first:
+      213: 1793231178753053656
+    second: personaje_cientifico_spritesheet_7
+  - first:
+      213: 7354545528389387884
+    second: personaje_cientifico_spritesheet_8
+  - first:
+      213: -2955841531411812230
+    second: personaje_cientifico_spritesheet_9
+  - first:
+      213: -823316198259001636
+    second: personaje_cientifico_spritesheet_10
+  - first:
+      213: 7279546311098636447
+    second: personaje_cientifico_spritesheet_11
+  - first:
+      213: -4963177488107689558
+    second: personaje_cientifico_spritesheet_12
+  - first:
+      213: 2431212717714186436
+    second: personaje_cientifico_spritesheet_13
+  - first:
+      213: 5686110756858884424
+    second: personaje_cientifico_spritesheet_14
+  - first:
+      213: -4882120051145820401
+    second: personaje_cientifico_spritesheet_15
+  - first:
+      213: 6540256712521612154
+    second: personaje_cientifico_spritesheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8836d89293ef7bff0800000000000000
+      internalID: -20268151836155000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 192
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98abde2bb55371160800000000000000
+      internalID: 6996119214103575177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe39832d56e4f7130800000000000000
+      internalID: 3566655629126308847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1bfbbf67e6e9290800000000000000
+      internalID: -7881740840542948897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db428fe884483aca0800000000000000
+      internalID: -6006812030810970947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 144
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8689488d955534220800000000000000
+      internalID: 2468910865102182504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872c8b1a435c35390800000000000000
+      internalID: -7830698497224949128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 144
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d31bb19146d2e810800000000000000
+      internalID: 1793231178753053656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 144
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6646182138901660800000000000000
+      internalID: 7354545528389387884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 144
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a703ad3b9cdbaf6d0800000000000000
+      internalID: -2955841531411812230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 99
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd672f0a74ef294f0800000000000000
+      internalID: -823316198259001636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f981a0f1dc4260560800000000000000
+      internalID: 7279546311098636447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa92020ee504f1bb0800000000000000
+      internalID: -4963177488107689558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 48
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c024cce5176db120800000000000000
+      internalID: 2431212717714186436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841f9186b9f19ee40800000000000000
+      internalID: 5686110756858884424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0734a81ea93f3cb0800000000000000
+      internalID: -4882120051145820401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personaje_cientifico_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bf6b904d8a3ca50800000000000000
+      internalID: 6540256712521612154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 78d107b90a50ee64f867883ad719aeab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      personaje_cientifico_spritesheet_0: -20268151836155000
+      personaje_cientifico_spritesheet_1: 6996119214103575177
+      personaje_cientifico_spritesheet_10: -823316198259001636
+      personaje_cientifico_spritesheet_11: 7279546311098636447
+      personaje_cientifico_spritesheet_12: -4963177488107689558
+      personaje_cientifico_spritesheet_13: 2431212717714186436
+      personaje_cientifico_spritesheet_14: 5686110756858884424
+      personaje_cientifico_spritesheet_15: -4882120051145820401
+      personaje_cientifico_spritesheet_16: 6540256712521612154
+      personaje_cientifico_spritesheet_2: 3566655629126308847
+      personaje_cientifico_spritesheet_3: -7881740840542948897
+      personaje_cientifico_spritesheet_4: -6006812030810970947
+      personaje_cientifico_spritesheet_5: 2468910865102182504
+      personaje_cientifico_spritesheet_6: -7830698497224949128
+      personaje_cientifico_spritesheet_7: 1793231178753053656
+      personaje_cientifico_spritesheet_8: 7354545528389387884
+      personaje_cientifico_spritesheet_9: -2955841531411812230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

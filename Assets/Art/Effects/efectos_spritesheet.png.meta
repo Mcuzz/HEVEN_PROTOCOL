@@ -1,0 +1,526 @@
+fileFormatVersion: 2
+guid: 8ac77ed8136a4ab408deba2cffa7fa21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7870316222051204221
+    second: efectos_spritesheet_0
+  - first:
+      213: -2154690414574310892
+    second: efectos_spritesheet_1
+  - first:
+      213: 2532233129827898993
+    second: efectos_spritesheet_2
+  - first:
+      213: 8571995587657089322
+    second: efectos_spritesheet_3
+  - first:
+      213: 3690258489552844588
+    second: efectos_spritesheet_4
+  - first:
+      213: 6545970559492404884
+    second: efectos_spritesheet_5
+  - first:
+      213: 6585772656713992428
+    second: efectos_spritesheet_6
+  - first:
+      213: 5668726836827966516
+    second: efectos_spritesheet_7
+  - first:
+      213: -9122451779002924529
+    second: efectos_spritesheet_8
+  - first:
+      213: 2015769267335121954
+    second: efectos_spritesheet_9
+  - first:
+      213: -7807182095256892480
+    second: efectos_spritesheet_10
+  - first:
+      213: -5116402226102971505
+    second: efectos_spritesheet_11
+  - first:
+      213: 1772951204391049382
+    second: efectos_spritesheet_12
+  - first:
+      213: 954109663632711604
+    second: efectos_spritesheet_13
+  - first:
+      213: -5377905222085582251
+    second: efectos_spritesheet_14
+  - first:
+      213: -4019915516213900431
+    second: efectos_spritesheet_15
+  - first:
+      213: -2030815804292534909
+    second: efectos_spritesheet_16
+  - first:
+      213: 4447672604772589268
+    second: efectos_spritesheet_17
+  - first:
+      213: 5192306689624081755
+    second: efectos_spritesheet_18
+  - first:
+      213: -7391954829604084840
+    second: efectos_spritesheet_19
+  - first:
+      213: 3537435856332509279
+    second: efectos_spritesheet_20
+  - first:
+      213: -4934851065930893401
+    second: efectos_spritesheet_21
+  - first:
+      213: -2989644167144611999
+    second: efectos_spritesheet_22
+  - first:
+      213: -7228515090502529842
+    second: efectos_spritesheet_23
+  - first:
+      213: 2999723994901502991
+    second: efectos_spritesheet_24
+  - first:
+      213: -3975998362090711316
+    second: efectos_spritesheet_25
+  - first:
+      213: -2599468684486692846
+    second: efectos_spritesheet_26
+  - first:
+      213: -758050180359303310
+    second: efectos_spritesheet_27
+  - first:
+      213: -1283629368686438907
+    second: efectos_spritesheet_28
+  - first:
+      213: -1568665299304893635
+    second: efectos_spritesheet_29
+  - first:
+      213: -950731969263202476
+    second: efectos_spritesheet_30
+  - first:
+      213: 3464760141858661901
+    second: efectos_spritesheet_31
+  - first:
+      213: 4543719714624702352
+    second: efectos_spritesheet_32
+  - first:
+      213: 5335065189164294508
+    second: efectos_spritesheet_33
+  - first:
+      213: -4903632152338835469
+    second: efectos_spritesheet_34
+  - first:
+      213: 1349375537766556253
+    second: efectos_spritesheet_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: efectos_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383c4a2481507c290800000000000000
+      internalID: -7870316222051204221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efectos_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41aeb56eb700912e0800000000000000
+      internalID: -2154690414574310892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efectos_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1761edf7d9c442320800000000000000
+      internalID: 2532233129827898993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efectos_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2144821298d5f670800000000000000
+      internalID: 8571995587657089322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efectos_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27ba2f5b8e663330800000000000000
+      internalID: 3690258489552844588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efectos_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496b5b4ba85f7da50800000000000000
+      internalID: 6545970559492404884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efectos_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce80bee965d556b50800000000000000
+      internalID: 6585772656713992428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efectos_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ccadd160d5bae40800000000000000
+      internalID: 5668726836827966516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efectos_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0286e7907a866180800000000000000
+      internalID: -9122451779002924529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efectos_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cc8a8f77379fb10800000000000000
+      internalID: 2015769267335121954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efectos_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb4c63af3157a390800000000000000
+      internalID: -7807182095256892480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efectos_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f835d118843eef8b0800000000000000
+      internalID: -5116402226102971505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: efectos_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a854d51ab9ca9810800000000000000
+      internalID: 1772951204391049382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7b20e2c5da75e8445b83a4b58d620637
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      efectos_spritesheet_0: -7870316222051204221
+      efectos_spritesheet_1: -2154690414574310892
+      efectos_spritesheet_10: -7807182095256892480
+      efectos_spritesheet_11: -5116402226102971505
+      efectos_spritesheet_12: 1772951204391049382
+      efectos_spritesheet_2: 2532233129827898993
+      efectos_spritesheet_3: 8571995587657089322
+      efectos_spritesheet_4: 3690258489552844588
+      efectos_spritesheet_5: 6545970559492404884
+      efectos_spritesheet_6: 6585772656713992428
+      efectos_spritesheet_7: 5668726836827966516
+      efectos_spritesheet_8: -9122451779002924529
+      efectos_spritesheet_9: 2015769267335121954
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
