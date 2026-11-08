@@ -12,9 +12,11 @@ public sealed class CharacterHealth : MonoBehaviour
     private Rigidbody2D _body;
     private bool _isDead;
 
-    // Propiedades públicas para consultar la vida desde el HUD.
     public float CurrentHealth => _currentHealth;
     public float MaxHealth => _maxHealth;
+
+    // Notifica a otros sistemas cuando el personaje muere.
+    public event System.Action Died;
 
     private static readonly int HurtHash =
         Animator.StringToHash("Hurt");
@@ -54,11 +56,17 @@ public sealed class CharacterHealth : MonoBehaviour
 
     private void Die()
     {
+        if (_isDead)
+            return;
+
         _isDead = true;
 
         UnityEngine.Debug.Log(
             $"{gameObject.name} ha sido derrotado."
         );
+
+        // Notifica la muerte antes de desactivar los componentes.
+        Died?.Invoke();
 
         if (_body != null)
         {
