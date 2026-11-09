@@ -8,6 +8,7 @@ public sealed class ScientistMovement : MonoBehaviour
 {
     [Header("Movimiento")]
     [SerializeField] private float _speed = 4f;
+    private readonly Collider2D[] _groundHits = new Collider2D[8];
 
     [Header("Salto")]
     [SerializeField] private float _jumpForce = 7f;
@@ -26,7 +27,7 @@ public sealed class ScientistMovement : MonoBehaviour
     private bool _isGrounded;
 
     private static readonly int IsMovingHash =
-        Animator.StringToHash("IsMoving");
+        Animator.StringToHash("IsWalking");
 
     private static readonly int IsGroundedHash =
         Animator.StringToHash("IsGrounded");
@@ -71,11 +72,23 @@ public sealed class ScientistMovement : MonoBehaviour
         if (_groundCheck == null)
             return;
 
-        _isGrounded = Physics2D.OverlapCircle(
-            _groundCheck.position,
-            _groundCheckRadius,
-            _groundLayer
-        );
+        var filter = new ContactFilter2D();
+        filter.SetLayerMask(_groundLayer);
+        filter.useTriggers = false;
+        int count = Physics2D.OverlapCircle(
+            _groundCheck.position, _groundCheckRadius, filter, _groundHits);
+        _isGrounded = false;
+        if (_body.linearVelocity.y <= 0.1f)
+        {
+            for (int i = 0; i < count; i++)
+            {
+                if (_groundHits[i].attachedRigidbody != _body)
+                {
+                    _isGrounded = true;
+                    break;
+                }
+            }
+        }
         if (_animator != null)
             _animator.SetBool(IsGroundedHash, _isGrounded);
     }
@@ -93,7 +106,7 @@ public sealed class ScientistMovement : MonoBehaviour
 
     private void OnJump(InputAction.CallbackContext context)
     {
-        if (!_isGrounded)
+        if (Time.timeScale <= 0f || !_isGrounded)
             return;
 
         _body.linearVelocity = new Vector2(
