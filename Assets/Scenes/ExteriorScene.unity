@@ -941,6 +941,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1464003077}
     m_Modifications:
+    - target: {fileID: 504661037426707555, guid: b99fa60d92f8717448330fcadf3b1a57, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -100
+      objectReference: {fileID: 0}
     - target: {fileID: 3927505312482735585, guid: b99fa60d92f8717448330fcadf3b1a57, type: 3}
       propertyPath: m_Name
       value: GameOverPanel
@@ -2219,9 +2223,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.0120773055
+    x: 0.106814936
     y: 0
-    width: 0.9758454
+    width: 0.7863701
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
