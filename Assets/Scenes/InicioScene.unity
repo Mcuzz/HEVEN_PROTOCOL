@@ -148,7 +148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56c14b450589b26468c80e54155a7794, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TitleScreenController
-  _gameScene: SampleScene
+  _gameScene: MenuJugadorScene
 --- !u!4 &442986044
 Transform:
   m_ObjectHideFlags: 0
@@ -277,9 +277,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.0120773055
+    x: 0
     y: 0
-    width: 0.9758454
+    width: 1
     height: 1
   near clip plane: 0.3
   far clip plane: 100
